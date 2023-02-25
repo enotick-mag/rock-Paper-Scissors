@@ -200,9 +200,9 @@ top: 70px;
     
       center {
     width: 10%;
-    height: 70vh;
+    height: 60vh;
     position: absolute;
-    top: 150px;
+    top: 50px;
     left: 100px;
     justify-content: space-between;
     display: flex;
@@ -216,7 +216,7 @@ top: 70px;
       .img-wrap2 {
         position: relative;
         width: 20%;
-        top: 490px;
+        top: 440px;
     left: 20%;
     
     
@@ -232,7 +232,7 @@ top: 70px;
     font-family: Arial, Helvetica, sans-serif;
     color: brown;
     left: 0px;
-    top: 140px;
+    top: 190px;
     
     }
 }
