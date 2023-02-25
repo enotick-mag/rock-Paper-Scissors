@@ -21,7 +21,11 @@ left: 43%;
     
     
   }
+button{
+border: none;
+background-color: transparent;
 
+}
   center {
 width: 30%;
 position: absolute;
